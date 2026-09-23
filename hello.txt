@@ -8,3 +8,4 @@ Remote change for fetch practice
 Git pull vs fetch practice
 Feature branch practice
 Change from main branch
+Change from conflict branch
